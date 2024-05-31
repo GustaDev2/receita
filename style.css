@@ -1,0 +1,44 @@
+p {
+    background-color: rgb(100, 97, 92);
+    width: 500px;
+
+    border: 1px solid rgb(0, 0, 0);
+}
+
+p, li, h1{
+    color: rgb(0, 0, 0);
+}
+html {
+    font-size: 20px; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+html {
+    background-color: rgb(151, 143, 140);
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff95ff;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #000000;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+
